@@ -4,4 +4,10 @@
 # 499 Capstone Project Showcase Poster
 ![Group02_Capstone-1 pptx](https://github.com/user-attachments/assets/953a5a90-49d8-4d44-be19-37fe161a23b8)
 
+# Dataset
+### The study uses the PTB-XL ECG signal database that contains atrial fibrillation detection data and is available on the PhysioNet website. This database includes signal values from 12 leads: Lead names include I, II, III, aVF, aVR, aVL, V1, V2, V3, V4, V5, and V6, which consists of 21,799 clinical ECG records and a metadata file.
+![image](https://github.com/user-attachments/assets/3f5e44d5-4879-428a-8ff8-9a2d837ea9b7)
 
+# Experimental Setup
+### This embedded system has been tested and implemented in real-world conditions.
+![image](https://github.com/user-attachments/assets/48856dec-6e12-4102-a0cc-e46d6fbc8b9e)
